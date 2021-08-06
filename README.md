@@ -10,4 +10,4 @@ Instagram: https://www.instagram.com/imtiyaz_15/?hl=en
 
 
 
-![](Neumorphism-Elements.png)
+![](https://github.com/imtiyazshamim/neumorphism-ui-design/blob/main/Neumorphic%20Elements.png)
